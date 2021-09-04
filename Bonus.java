@@ -1,3 +1,4 @@
+Q No.05
 import java.util.Scanner;
 class Bonus  
 {
