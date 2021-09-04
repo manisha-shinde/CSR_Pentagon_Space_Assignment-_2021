@@ -1,3 +1,4 @@
+Q No.01
 class AreaOfRectangle 
 {
 	public static void main(String[] args) 
