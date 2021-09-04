@@ -1,3 +1,4 @@
+Q No.04
 import java.util.Scanner;
 class Alphabet 
 {
